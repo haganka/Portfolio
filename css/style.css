@@ -573,7 +573,16 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 10px;
 }
 
-/* Product Featuress Section
+.code {
+  max-height: 380px;
+}
+
+.description {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+/* Reach Out Section
 --------------------------------*/
 #features {
   background: #fff;
@@ -639,7 +648,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 10px;
 }
 
-/* Product Advanced Featuress Section
+/* My Work Section
 --------------------------------*/
 #advanced-features .features-row {
   padding: 60px 0 30px 0;
@@ -657,7 +666,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-top: 30px;
   font-size: 16px;
   line-height: 24px;
-  /* font-weight: 400; */
+  font-weight: 400;
   color: #777;
 }
 
@@ -684,11 +693,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   -webkit-text-fill-color: transparent;
 }
 
-#advanced-features .advanced-feature-img-right {
+
+
+.advanced-feature-img-right {
   max-width: 100%;
   float: right;
   padding: 0 0 30px 30px;
 }
+
 
 #advanced-features .advanced-feature-img-left {
   max-width: 100%;
@@ -708,6 +720,19 @@ body.mobile-nav-active #mobile-nav-toggle {
     float: none;
     padding: 0 0 30px 0;
   }
+}
+
+#dining-img {
+  display: block;
+  width: 150%;
+}
+
+.link {
+  color: rgba(0, 66, 68, 0.8);
+}
+
+.link:hover {
+  color: rgba(113, 180, 182, 0.8);
 }
 
 
