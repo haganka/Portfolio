@@ -13,6 +13,8 @@ You can view the app on https://www.kellyhagan.com
 * **Kelly Hagan** - [haganka](https://github.com/haganka)
 
 ## Acknowledgements
-code photo: Photo by Sai Kiran Anagani on Unsplash
-background photo: Photo by Georgie Cobbs on Unsplash
-Chicago: Photo by Liz Lawrence on Unsplash
+Theme: Avilon from Bootstrap Templates [https://bootstrapmade.com/avilon-bootstrap-landing-page-template/]
+Stock photos from [unsplash.com](https://unsplash.com)
+* Header background - Photo by Georgie Cobbs 
+* Chicago: Photo by Liz Lawrence 
+* Code - Photo by Sai Kiran Anagani 
