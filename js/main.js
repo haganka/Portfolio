@@ -120,6 +120,14 @@ jQuery(document).ready(function($) {
     }
   });
 
+  // Email on click
+  $(document).ready(function(){
+    $('.email').on('click',function(){
+      //  window.location.href = "mailto:kelly.hagan3@gmail.com?subject=Hi!&body="; 
+      window.open("mailto:kelly.hagan3@gmail.com?subject=Hi!&body=")
+    });
+  });
+
   // custom code
 
 });
